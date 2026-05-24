@@ -1,0 +1,9 @@
+{
+  "Name": "Boss Fixes",
+  "Author": "GlacialVitality",
+  "Description": "Removes the dreaded boss blitz nonsense for SMG1 bosses",
+  "InstallDependencies": ["Syati_ObjectFactories", "Syati_Init"],
+  "SupportedGames": [
+    "SB4E"
+  ]
+}
