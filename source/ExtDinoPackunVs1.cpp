@@ -12,7 +12,7 @@ void openingDemo() {
 kmCall(0x800B1EF8, openingDemo);
 
 void cryDemoEnd() {
-    MR::startStageBGM("MBGM_SMG2_BOSS_07A", false);
+    MR::startStageBGM("MBGM_SMG2_BOSS_07", false);
 }
 
 kmCall(0x800B2070, cryDemoEnd);
